@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"dir /s /b \"\"C:\\\\Users\\\\Ali Emir\\\\Desktop\\\\Project\\\\Packages\"\"\")",
+      "Bash(cmd /c \"dir \"\"C:\\\\Users\\\\Ali Emir\\\\Desktop\\\\Project\\\\Packages\"\"\")",
+      "Bash(cmd /c \"dir \"\"C:\\\\Users\\\\Ali Emir\\\\Desktop\\\\Project\\\\Packages\"\" /b\")",
+      "Bash(cmd /c \"type \"\"C:\\\\Users\\\\Ali Emir\\\\Desktop\\\\Project\\\\Packages\\\\Potapus_FSM\\\\package.json\"\"\")",
+      "Bash(cmd /c \"dir C:\\\\Users\\\\Ali^ Emir\\\\Desktop\\\\Project\\\\Packages /b 2>&1\")",
+      "Bash(cmd /c \"dir /s /b \"\"C:\\\\Users\\\\Ali Emir\\\\Desktop\\\\Project\\\\Assets\"\" 2>&1 | findstr /v \".meta\"\")",
+      "Bash(grep -E '\\\\.\\(json|md|txt|yml|yaml|toml\\)$')"
+    ]
+  }
+}

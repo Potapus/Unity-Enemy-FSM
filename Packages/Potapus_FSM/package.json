@@ -1,0 +1,27 @@
+{
+    "name": "com.potapus.enemyfsm",
+    "version": "1.0.0",
+    "displayName": "Enemy FSM",
+    "description": "Data-driven enemy AI Finite State Machine for Unity. Includes a generic FSM core usable for any game object, NavMesh enemy states (Idle, Wander, Chase, Attack, Staggered, ReturnHome, Dead), swappable attack behaviours via interface, knockback handling, and a hitbox-based combat system.",
+    "unity": "2022.3",
+    "license": "MIT",
+    "author": {
+        "name": "Potapus",
+        "url": "https://github.com/Potapus"
+    },
+    "keywords": [
+        "fsm",
+        "finite-state-machine",
+        "enemy-ai",
+        "ai",
+        "navmesh",
+        "combat",
+        "hitbox",
+        "game-ai",
+        "state-machine"
+    ],
+    "documentationUrl": "https://github.com/Potapus/Unity-Enemy-FSM#readme",
+    "changelogUrl": "https://github.com/Potapus/Unity-Enemy-FSM/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/Potapus/Unity-Enemy-FSM/blob/main/LICENSE",
+    "dependencies": {}
+}
